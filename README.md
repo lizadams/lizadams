@@ -13,10 +13,4 @@ UNC Institute for the Environment
 
 ## Technologies and Tools
 
-## Github Stats
 
-[![Liz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizadams)](https://github.com/anuraghazra/github-readme-stats)
-
-## Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizadams&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
