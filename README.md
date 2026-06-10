@@ -1,7 +1,7 @@
 # Elizabeth Adams 
 
-Research Associate
-UNC Institute for the Environment
+Research Associate<br>
+UNC Institute for the Environment<br>
 
 ## Current Projects
 
