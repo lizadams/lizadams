@@ -5,7 +5,7 @@ UNC Institute for the Environment<br>
 
 ## Current Projects
 
-### CMAS Model Testing, Documentation and Release
+### CMAS/EPA Testing, Documentation and Release
 * CMAQ https://github.com/usepa/cmaq
 * AMET https://github.com/usepa/amet
 * VERDI https://github.com/cempd/verdi
